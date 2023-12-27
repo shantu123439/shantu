@@ -2,7 +2,7 @@ import os
 import re
 
 # 指定目录和文件名
-directory = r'D:\安服学习笔记\厦门市护网'
+directory = r'D:\xxx\xxx'
 filename = '数据.txt'
 
 # 构建文件路径
